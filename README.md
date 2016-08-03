@@ -1,4 +1,4 @@
-# C-Algorithm-and-Programing
+# C++ Algorithm and Programing
 
 ## 4 practical works focusing on programing
 
